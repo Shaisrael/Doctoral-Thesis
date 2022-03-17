@@ -1,7 +1,5 @@
 # Doctoral-Thesis
-Contains video clips referenced in the dissertation
-
-Video captions:
+Contains captions of video clips referenced in the dissertation
 
 Chapter 1:
 
