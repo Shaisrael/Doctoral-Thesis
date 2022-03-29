@@ -36,7 +36,7 @@ Video 4.3: R60F09-GAL4 driver elicits MDN-dependent and -independent backward lo
 
 Video 4.4: MooSEZ rotational componenet is added to the motor response following metamorphosis. Left, example of straight backward locomotion of GH146II-GAL4 SPARC mosaic larva expressing CsChrimson in the right MooSEZ following a 2-s red light stimulation. Right, example of ipsilateral backward rotation of GH146II-GAL4 SPARC mosaic fly developed from the larva presented on the left expressing CsChrimson in the right MooSEZ following a 2-s red light (617 nm) stimulation.
 
-Video 4.5: MooSEZ split GAL4 driver lines trigger robust backward locomotion in larvae and adults. Left, example of larval backward crawling following optogenetic activation of MooSEZ split GAL4 driver line VT032768-p65.AD&R60F09-GAL4.DBD using a red light (617 nm) pulse. Right, example of adult fly backward walking following optogenetic activation of MooSEZ split GAL4 driver line VT032768-p65.AD&R60F09-GAL4.DBD using a red light (617 nm) pulse. 
+Video 4.5: MooSEZ split GAL4 driver lines trigger robust backward locomotion in larvae and adults. Left, example of larval backward crawling following optogenetic activation of MooSEZ split GAL4 driver line VT032768-p65.AD&R60F09-GAL4.DBD using a red light (617 nm) pulse. Right, example of backward walking of adult fly following optogenetic activation of MooSEZ split GAL4 driver line VT032768-p65.AD&R60F09-GAL4.DBD using a red light (617 nm) pulse. 
 
 
 
