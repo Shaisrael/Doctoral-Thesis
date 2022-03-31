@@ -1,5 +1,5 @@
 # Doctoral-Thesis
-Contains captions of video clips referenced in the dissertation.
+This repository indludes all the video clips referenced in the Phd dissertation of Shai Israel along with their corresponding captions (below).
 
 
 Chapter 2:
