@@ -1,7 +1,7 @@
 # Doctoral-Thesis
 Author: Shai Israel.
 
-**This repository includes all the video clips referenced in the Phd dissertation of Shai Israel along with their corresponding captions (below).**
+**This repository includes all the video clips referenced in the Ph.D. dissertation of Shai Israel along with their corresponding captions (below).**
 
 
 **Chapter 2:**
