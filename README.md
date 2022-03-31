@@ -1,17 +1,17 @@
 # Doctoral-Thesis
-*Author: Shai Israel.
+Author: Shai Israel.
 
-**This repository includes all the video clips referenced in the Phd dissertation of Shai Israel along with their corresponding captions (below).
+**This repository includes all the video clips referenced in the Phd dissertation of Shai Israel along with their corresponding captions (below).**
 
 
-**Chapter 2:
+**Chapter 2:**
 
 **Video 2.1:** Differential odor-induced backward locomotion. Example of w1118 responses to ACV (left), GA (middle) and 2-butanone (right).
 
 **Video 2.2:** Differential odor-induced backward locomotion of starved flies. Example of starved w1118 responses to ACV (left) and 2-butanone (right).
 
 
-**Chapter 3:
+**Chapter 3:**
 
 **Video 3.1:** Backward locomotion following optogenetic activation of GH146II-GAL4. Example of backward locomotion following a 2-s blue light (470 nm) pulse in flies carrying GH146II-GAL4 and UAS-ChR2-XXM.
 
@@ -28,7 +28,7 @@
 **Video 3.7:** Unilateral activation of MooSEZs triggers ipsilateral backward rotation. Left, example of backward turning in GH146II-GAL4 SPARC mosaic fly expressing CsChrimson in the right MooSEZ. Right, example of backward turning in GH146II-GAL4 SPARC mosaic fly expressing CsChrimson in the left MooSEZ.
 
 
-**Chapter 4:
+**Chapter 4:**
 
 **Video 4.1:** Backward crawling following optogenetic activation of the neurons covered by NP225-GAL4. Example of backward locomotion following a 10-s blue light (470 nm) pulse in larvae expressing ChR2-XXM under the control of NP225-GAL4.
 
